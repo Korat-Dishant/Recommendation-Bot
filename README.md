@@ -5,7 +5,8 @@ This repoository is part of the whole Recommendation Bot project. This repositor
 This recommendation bot also privide links to buy suggested products in the suggestion-chip below chatbot reply.
 
 you can see implementation of the recommendadtion bot backend [here ](https://github.com/Korat-Dishant/ultimateCCv2)
-[![ultimateCCv2](https://github.com/user-attachments/assets/7ad88164-04d1-4621-bb57-882a365efdf8)
+
+[![ultimateCCv2](https://github.com/user-attachments/assets/7ad88164-04d1-4621-bb57-882a365efdf8)]
 
 ## Snapshots of the working project
 
